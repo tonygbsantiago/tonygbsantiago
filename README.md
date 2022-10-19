@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on Ludz.One and IPTI | Instituto de Pesquisas em Tecnologia e Inovação
+- 🔭 I’m currently working on Ludz.One
 - ⚡ I’m an Software Engineer, I like challenges and I'm ready to use my skills, I always seek develop for fun and love, I take great care with the quality of code and software to build the best app, I'm very self-motivated and I adapt easily to things and changes.
 
 ## 🌐 Socials:
