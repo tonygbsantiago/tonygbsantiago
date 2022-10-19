@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on Ludz.One and IPTI | Instituto de Pesquisas em Tecnologia e Inovação
-- ⚡ More about me: I’m an Software Engineer, I like challenges and I'm ready to use my skills, I always seek develop for fun and love, I take great care with the quality of code and software to build the best app, I'm very self-motivated and I adapt easily to things and changes.
+- ⚡ I’m an Software Engineer, I like challenges and I'm ready to use my skills, I always seek develop for fun and love, I take great care with the quality of code and software to build the best app, I'm very self-motivated and I adapt easily to things and changes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t0nysantiago) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonygbsantiago) 
